@@ -16,4 +16,4 @@ A 7-part quick reference handout series for geoscientists working with Python an
 
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Citation:** DOI to be added upon Zenodo publication.
+**Citation:** Ababneh, L. (2026). GeoPython Handout Series v1.0.1. Zenodo. https://doi.org/10.5281/zenodo.18881728
